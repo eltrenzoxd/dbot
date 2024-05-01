@@ -1,0 +1,13 @@
+{
+    "name": "spam",
+    "version": "1.0.1",
+    "description": "TG->@trenzoxd",
+    "main": "pinger.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+    ],
+    "author": "@trenzoxd",
+    "license": "ISC"
+  }
